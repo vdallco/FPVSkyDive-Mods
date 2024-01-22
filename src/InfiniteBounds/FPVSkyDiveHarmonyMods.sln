@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPVSkyDiveInfiniteBounds", "FPVSkyDiveInfiniteBounds.csproj", "{9F72A590-5C2E-43C4-830E-3AE6FBE738D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPVSkyDiveRealisticWhoopGravity", "..\FPVSkyDiveRealisticWhoopGravity\FPVSkyDiveRealisticWhoopGravity.csproj", "{3A83036F-9AF0-4C91-89D4-9BB21B2212C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F72A590-5C2E-43C4-830E-3AE6FBE738D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F72A590-5C2E-43C4-830E-3AE6FBE738D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F72A590-5C2E-43C4-830E-3AE6FBE738D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F72A590-5C2E-43C4-830E-3AE6FBE738D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A83036F-9AF0-4C91-89D4-9BB21B2212C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A83036F-9AF0-4C91-89D4-9BB21B2212C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A83036F-9AF0-4C91-89D4-9BB21B2212C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A83036F-9AF0-4C91-89D4-9BB21B2212C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3076EBEA-4240-4D63-9711-8D0693CD2A08}
+	EndGlobalSection
+EndGlobal
