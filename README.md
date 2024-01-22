@@ -120,7 +120,7 @@ public Task<Texture> GetImage(string imageUrl)
 - Click Compile
 - File -> Save Module
 
-Now the loading screen can get past the "Loading user data..." setp, but the main menu banner/ad is broken.
+Now the loading screen can get past the "Loading user data..." step, but the main menu banner/ad is broken.
 
 
 ## Lua console
