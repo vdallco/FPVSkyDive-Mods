@@ -24,9 +24,11 @@ Copy Mods/FPVSkyDiveInfiniteBounds.dll to C:\Program Files (x86)\Steam\steamapps
 
 ## More realistic whoop gravity (fall faster):
 
-
 Copy Mods/FPVSkyDiveRealisticWhoopGravity.dll to C:\Program Files (x86)\Steam\steamapps\common\FPV.SkyDive\Mods
 
+## ModsInfoNotification mod (shows custom notificationss on main menu):
+
+Copy Mods/FPVSkyDiveModsInfo.dll to C:\Program Files (x86)\Steam\steamapps\common\FPV.SkyDive\Mods
 
 ## Adding hooks to FPV.SkyDive with Harmony mod
 
